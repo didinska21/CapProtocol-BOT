@@ -18,8 +18,8 @@ Follow these steps to install and set up the script:
 1. Clone this repository or download the script.
 
    ```bash
-   git clone https://github.com/yourusername/claim-faucet-bot.git
-   cd claim-faucet-bot
+   git clone https://github.com/didinska21/CapProtocol-BOT.git
+   cd CapProtocol-BOT
    ```
 
 2. Install the dependencies.
